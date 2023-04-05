@@ -1,0 +1,193 @@
+---
+title: "Cody Tuttle's CV"
+author: Cody R. Tuttle
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Cody R. Tuttle, MPP](crt.png){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> [cody.tuttle.13@gmail.com](mailto:cody.tuttle.13@gmail.com)
+- <i class="fa fa-github"></i> [codyrtuttle](https://github.com/codyrtuttle)
+- <i class="fa fa-phone"></i> 501-626-2317
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- ***Core:*** Quantiative research, policy analysis, econometrics, data science & visualization, project management, and stakeholder engagement
+
+- ***Software:*** R, SQL, Tableau, MS Excel, Stata, SPSS, HTML/CSS
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Cody R. Tuttle {#title}
+--------------------------------------------------------------------------------
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of Minnesota
+
+MPP - Humphrey School of Public Affairs
+
+Minneapolis, MN
+
+2020
+
+Focus in quantitative analysis and social and economic policy
+
+### University of Arkansas
+
+MA in Sociology (emphasis in criminology)
+
+Fayetteville, AR
+
+2017
+
+### University of Arkansas
+
+BA in Sociology, BA in Criminal Justice
+
+Fayetteville, AR
+
+2015
+
+Professional Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Minnesota Management and Budget
+
+Research Scientist
+
+St. Paul, MN
+
+March 2020 - Present
+
+- Lead and support impact evaluations on human services programs (research design, stakeholder engagement, data analysis, and writing)
+- Data consultant for multiple COVID-19 response work groups; worked with commissioners and executive leaders to provide analytical support for child care, education, economic security, and food security work groups
+
+### University of Minnesota
+
+Graduate Research and Teaching Assistant
+
+Minneapolis, MN
+
+Aug 2019 - May 2020
+
+- RA at Rural Health Research Center: developed data analysis and visualizations for a project on older adults in rural areas
+- TA at Humphrey School of Public Affairs: Fall 2019, Microeconomics; Spring 2020, Applied Regression (Accelerated) & Multivariate Techniques
+
+### Federal Reserve Bank of Minneapolis
+
+Analytics Intern
+
+Minneapolis, MN
+
+June 2019 - Aug 2019
+
+- Assisted in research projects for economists in the Supervision, Regulation, and Credit division
+- Developed data dashboards for projects on agricultural banking and economics
+- Presented work to SVP and other senior officers in SRC
+
+### Hennepin County
+
+Statistical Analyst (Graduate Fellow)
+
+Minneapolis, MN
+
+June 2018 - May 2019
+
+- Assisted in research and quantitative efforts for inter-disciplinary, cross-sector research project studying probation and health outcomes
+- Merged, cleaned, analyzed, and visualized longitudinal administrative criminal justice, human services, and health data 
+
+### MN Department of Human Services
+
+Research and Data Specialist
+
+St. Paul, MN
+
+Aug 2017 - May 2018
+
+- Utilized qualitative and quantitative research for a project focused on creating racial equity in early childhood policy and outcomes
+- Communicated with high-level executives in various state agencies, organizational leaders, and community members of diverse backgrounds and demographics 
+- Analyzed federal and state early childhood, economic assistance, health care, housing, and data sharing policy
+
+Publications - Op-Eds {data-icon=file}
+--------------------------------------------------------------------------------
+
+### [Why We Shouldn’t Be So Quick to Move People Out of High Poverty Neighborhoods](https://nextcity.org/daily/entry/why-we-shouldnt-be-so-quick-move-people-out-of-high-poverty-neighborhoods)
+
+Next City (January 7, 2020)
+
+N/A
+
+2020
+
+Publications - Peer-Reviewed Journal Articles{data-icon=file}
+--------------------------------------------------------------------------------
+
+### [Immigration and Crime in the Local News: Exploring the Macrolevel Covariates of Coverage and Framing](https://www.tandfonline.com/doi/abs/10.1080/00380253.2020.1826002)
+
+The Sociological Quarterly, 2020
+
+N/A
+
+2020
+
+Harris CT, Gruenewald JA, ***Tuttle CR***
+
+### [Making the Lead: How Article and Community Characteristics Impact Front-Page Coverage of the Immigration-Crime Debate](https://www.tandfonline.com/doi/full/10.1080/02732173.2019.1669237?src=recsys)
+
+Sociological Spectrum, 2019
+
+N/A 
+
+2019 
+
+***Tuttle CR***, Harris CT
+
+### [Southern Culture and Aggravated Assault: Exploring the Generality of the Southern Cultural Tolerance of Violence](https://www.tandfonline.com/doi/abs/10.1080/02732173.2018.1430637)
+
+Sociological Spectrum, 2018
+
+N/A 
+
+2018
+
+Thomas SA, Medaris DC, ***Tuttle CR***
+
+### [Expanding the Conversation: Examining Poverty Rates of Medicaid Expansion-Eligible Individuals using the Supplemental Poverty Measure](https://pubs.lib.umn.edu/index.php/phr/article/view/1566)
+
+Public Health Review, 2018
+
+N/A 
+
+2018
+
+***Tuttle CR***
